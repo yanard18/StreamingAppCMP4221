@@ -1,4 +1,4 @@
-	RTSP streaming server with x264 video compression, optional YOLO-based person detection, and MQTT-based remote control.
+RTSP streaming server with x264 video compression, optional YOLO-based person detection, and MQTT-based remote control.
 
 
 ## 1. Features
